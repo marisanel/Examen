@@ -1,0 +1,63 @@
+Examen ordinario
+
+Responde las siguientes preguntas de la manera más concreta posible
+
+En el contexto actual del desarrollo web que roles juegan y como interactúan entre ellos.
+
+HTML: Gramatica y ortografia
+
+CSS: Codigo para el diseño en desarrollo web
+
+JavaScript: Es el lenguaje para la programacion con codigo
+
+Enlista con su descripción 3 tags relacionados con estilo de texto.
+
+	COLOR AL TEXTO:
+	.textoAzul{
+	color:blue;
+
+	TEXTO EN NEGRITAS:
+	<b> </b>
+
+	TEXTO SUBRAYADO:
+	.subrayado{
+	text-decoration: underline;
+
+	TIPOGRAFIA DETERMINADA :
+		font-style:italic;
+	
+
+Enlista con su descripción 3 tags relacionados con el layout del documento
+
+
+	DIVIDE SECCIONES
+	<div></div>
+
+	CONTENIDO DEL DOCUMENTO:
+	<body> </body>
+
+	COLOCAR TITULOS:
+	<tittle> </tittle>
+
+Enlista con su descripción 3 tags relacionados con la semántica del documento
+
+Element represents a container for introductory content or a set of navigational links.
+	HEADER
+
+ tag defines a set of navigation links:
+	NAV
+
+
+tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document:
+
+	SECTIPON
+
+
+tag specifies independent, self-contained content.:
+	ARTICLE
+
+
+
+pie de pagina
+encabezado del documento
+seccion del documento
